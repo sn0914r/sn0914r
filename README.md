@@ -26,4 +26,4 @@ Hi, I'm Sivananda Reddy, a frontend developer from India, currently learning Rea
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/sivananda-reddy-yerragudi-630076337" target="_blank">Sivananda Reddy Yerragudi</a> <br> ✉️Email: reddysivananda83@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/sivananda-reddy-yerragudi-630076337" target="_blank">Sivananda Reddy Yerragudi</a> <br> ✉️ Gmail: reddysivananda83@gmail.com</p>
