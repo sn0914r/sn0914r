@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi, I'm Sivananda Reddy, a frontend developer from India (puttur, Andhrapradesh), currently learning React JS I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.
+Hi, I'm Sivananda Reddy, a frontend developer from India, currently learning React JS I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.
 
 ## My Skills
 
