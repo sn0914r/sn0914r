@@ -11,11 +11,9 @@ Hi, I'm Sivananda Reddy, a frontend developer from India, currently learning Rea
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
 <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 
 ## GitHub Stats
 
