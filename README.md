@@ -14,6 +14,7 @@ Hi, I'm Sivananda Reddy, a frontend developer from India, currently learning Rea
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
 <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000">
 
 ## GitHub Stats
 
