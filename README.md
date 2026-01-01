@@ -1,26 +1,56 @@
 <p align="center">
-  <img src="./assets/github-header-image.png" alt="Header Image">
+  <img src="./assets/github-header-banner.png" alt="Header Image">
 </p>
 
 ## About Me
 
-Hi, I'm Sivananda Reddy, a frontend developer from India, currently learning React JS I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.
+Backend-focused developer working with Node.js and REST APIs.  
+Building features such as authentication, file uploads, email services, and third-party integrations.  
+Currently working on real-world backend projects and open to internship opportunities.
 
 ## My Skills
 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" title="HTML"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff" title="CSS"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" title="JavaScript"> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" title="Bootstrap"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" title="React"> 
+<img src="https://img.shields.io/badge/Firebase-FFA000?logo=firebase&logoColor=white" title="Firebase"> 
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" title="Node.js"> 
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" title="Express"> 
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" title="GitHub">
 
 ## GitHub Stats
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=sn0914r&theme=dark&show_icons=true&count_private=true"><br><br>
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sn0914r&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sn0914r&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<table>
+  <tbody>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=sn0914r&theme=dark&show_icons=true&count_private=true"><br><br>
+        <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=sn0914r&theme=dark">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sn0914r&theme=dark&langs_count=6">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/sivananda-reddy-yerragudi-630076337" target="_blank">Sivananda Reddy Yerragudi</a> <br> ✉️ Gmail: reddysivananda83@gmail.com</p>
+<!-- ## Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sivananda-reddy-yerragudi-630076337" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linked&logoColor=white">
+  </a>
+  <a href="mailto:reddysivananda83@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white">
+  </a>
+</p> -->
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sivananda-reddy-yerragudi-630076337" target="_blank">LinkedIn</a> ·
+  <a href="mailto:reddysivananda83@gmail.com">Email</a>
+</p>
