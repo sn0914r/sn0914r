@@ -18,6 +18,8 @@ Currently working on real-world backend projects and open to internship opportun
 <img src="https://img.shields.io/badge/Firebase-FFA000?logo=firebase&logoColor=white" title="Firebase"> 
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" title="Node.js"> 
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" title="Express"> 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" title="Mongo DB"> 
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" title="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" title="GitHub">
 
 ## GitHub Stats
@@ -35,7 +37,6 @@ Currently working on real-world backend projects and open to internship opportun
     </tr>
   </tbody>
 </table>
-
 
 <!-- ## Connect with Me
 
